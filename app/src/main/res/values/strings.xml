@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">快享娱乐</string>
+    <string name="fragment_quickmsg">快讯</string>
+    <string name="fragment_hotchat">热聊</string>
+    <string name="fragment_live">直播</string>
+    <string name="fragment_personal">个人</string>
+    <string name="text_load_title">正在加载...</string>
+    
+    <string-array name="hot_titles">
+        <item>头条</item>
+        <item>新闻</item>
+        <item>视频</item>
+        <item>笑话</item>
+        <item>体育</item>
+        <item>娱乐</item>
+    </string-array>
+</resources>
